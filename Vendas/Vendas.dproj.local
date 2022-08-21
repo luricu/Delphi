@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/11 20:02:23.000.307,=C:\Users\Lucas Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 20:07:29.000.554,=C:\Users\Lucas Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 20:28:46.000.565,=C:\Users\Lucas Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 20:30:21.000.098,=C:\Users\Lucas Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 20:30:47.000.986,C:\Users\Lucas Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Pessoal\Projetos\WK\uPrincipal.pas</Transaction>
+    <Transaction>2022/08/19 20:30:47.000.986,C:\Users\Lucas Ribeiro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Pessoal\Projetos\WK\uPrincipal.dfm</Transaction>
+    <Transaction>2022/08/19 20:31:10.000.488,C:\Users\Lucas Ribeiro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Pessoal\Projetos\WK\Vendas.dproj</Transaction>
+    <Transaction>2022/08/19 21:04:00.000.337,=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 21:04:09.000.736,C:\Pessoal\Projetos\WK\uClasse.pas=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 21:25:39.000.313,=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 21:27:19.000.547,C:\Pessoal\Projetos\WK\uDM.dfm=C:\Pessoal\Projetos\WK\Unit1.dfm</Transaction>
+    <Transaction>2022/08/19 21:27:19.000.547,C:\Pessoal\Projetos\WK\uDM.pas=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 21:28:18.000.532,=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/19 21:28:27.000.962,C:\Pessoal\Projetos\WK\uFuncs.pas=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/20 22:44:12.426,=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/20 22:44:24.404,C:\Pessoal\Projetos\WK\uPesquisa.dfm=C:\Pessoal\Projetos\WK\Unit1.dfm</Transaction>
+    <Transaction>2022/08/20 22:44:24.404,C:\Pessoal\Projetos\WK\uPesquisa.pas=C:\Pessoal\Projetos\WK\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
